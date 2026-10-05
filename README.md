@@ -21,8 +21,6 @@ I build AI agents and business software to qualify leads, automate workflows, an
 
 At **Caudal AI**, I author and evaluate frontier coding-agent benchmark tasks using Dockerized environments, adversarial cases, and test-based verifiers.
 
-I'm pursuing a **B.Sc. (Hons.) in Computer Science**, with a minor in Mathematics, at **Ramanujan College, University of Delhi**. Expected graduation: May 2027.
-
 Interested in working together on:
 
 - **AI agents & evaluation** — tool use, benchmark tasks, rubrics, and verifiers.
