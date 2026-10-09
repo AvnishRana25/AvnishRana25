@@ -72,7 +72,7 @@ Built a study-tracking PWA with photo-evidence logging, AI-assisted log parsing 
 ## Selected Achievements
 
 - **HackCBS 2025:** Top 10 of 300+ teams.
-- **NDA 2023:** All India Rank 416; recommended by the Air Force Selection Board on my first attempt.
+- **Won 10+ Hackathons nationwide. 
 
 ---
 
