@@ -55,14 +55,6 @@ Built a study-tracking PWA with photo-evidence logging, AI-assisted log parsing 
 
 [Explore the repository](https://github.com/AvnishRana25/BroMonitor) · [Live application — PIN required](https://bromonitor.vercel.app)
 
-### Outreach Automation Pipeline — Cold Email Automation
-
-A cold email outreach engine running on **GitHub Actions**, with timezone-based dispatch, SQLite deduplication, and automated follow-ups. Detects replies, cancels pending follow-ups, and sends mobile notifications.
-
-**Stack:** Python · GitHub Actions · SQLite · Gmail API
-
-[Explore the repository](https://github.com/AvnishRana25/outreach-automation-pipeline)
-
 ---
 
 ## Technical Skills
